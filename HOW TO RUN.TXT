@@ -1,0 +1,5 @@
+# EastBloc-EastHax
+A complation Of Scripts i made
+Rename file extension from TXT to BAT 
+Windows will warm you hit OK
+
