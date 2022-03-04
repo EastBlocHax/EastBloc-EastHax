@@ -2,4 +2,4 @@
 A complation Of Scripts i made
 Rename file extension from TXT to BAT 
 Windows will warm you hit OK
-
+run THE NEW BAT FILE AS ADMIN IF FAILS ON NORMAL EXCUTE
